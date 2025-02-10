@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.container1 {
+    width: 300px;
+    height: 200px;
+    background-color: green;
+}
+
+.container2 {
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.container3 {
+    width: 300px;
+    height: 200px;
+    background-color: purple;
+}
